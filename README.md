@@ -1,6 +1,7 @@
+![logo](https://github.com/Tayyabakhatri/Tayyabakhatri/blob/main/Blue%20Neon%20Creative%20Futuristic%20Name%20Gaming%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm TAYYABA KHATRI</h1>
 <h3 align="center">A full stack and Mern(mangoDB,express,React,next) developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9&psig=AOvVaw0uPkmS3cLnSp6umQePKeOZ&ust=1713926108808000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCd9bim14UDFQAAAAAdAAAAABAR">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabakhatri&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabakhatri" /> </p>
 
